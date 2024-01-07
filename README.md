@@ -49,7 +49,7 @@ GitOps can be consider an extention of Infrastructure of Code (IAC) that uses Gi
 - Generic Secrets management ic complex. 
 
 
-#### GitOps Benefits and Challenges
+### GitOps Benefits and Challenges
 
 - Lightweight and Vendor-neutral
 - Faster, Safer, Immutable and Reproducible Deployment
